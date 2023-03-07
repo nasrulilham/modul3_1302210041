@@ -19,6 +19,7 @@ namespace modul3_1302210041
 
         }
 
+
         private void button4_Click(object sender, EventArgs e)
         {
             int num = 2;
