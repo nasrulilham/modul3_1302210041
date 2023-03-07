@@ -1,0 +1,17 @@
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\bin\Debug\net6.0-windows\modul3_1302210041.exe
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\bin\Debug\net6.0-windows\modul3_1302210041.deps.json
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\bin\Debug\net6.0-windows\modul3_1302210041.runtimeconfig.json
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\bin\Debug\net6.0-windows\modul3_1302210041.dll
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\bin\Debug\net6.0-windows\modul3_1302210041.pdb
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\modul3_1302210041.csproj.AssemblyReference.cache
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\modul3_1302210041.Form1.resources
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\modul3_1302210041.csproj.GenerateResource.cache
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\modul3_1302210041.GeneratedMSBuildEditorConfig.editorconfig
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\modul3_1302210041.AssemblyInfoInputs.cache
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\modul3_1302210041.AssemblyInfo.cs
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\modul3_1302210041.csproj.CoreCompileInputs.cache
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\modul3_1302210041.dll
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\refint\modul3_1302210041.dll
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\modul3_1302210041.pdb
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\modul3_1302210041.genruntimeconfig.cache
+D:\jurnal\modul3_1302210041\modul3_1302210041\modul3_1302210041\obj\Debug\net6.0-windows\ref\modul3_1302210041.dll
